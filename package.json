@@ -13,7 +13,7 @@
     "git": "^0.1.5",
     "node-cron": "^2.0.3",
     "nodemon": "^2.0.20",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "systeminformation": "^4.24.2"
   }
 }
